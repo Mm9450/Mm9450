@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mm9450)](https://github.com/Mm9450/github-readme-stats)
 <!--
 **Mm9450/Mm9450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
