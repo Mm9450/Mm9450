@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/Mm9450"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mm9450&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Manas's github stats" /></a> | <a href="https://github.com/Mm9450"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mm9450&langs_count=3&theme=vision-friendly-dark&&hide_border=true" /></a> |
+| <a href="https://github.com/Mm9450"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mm9450&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Manas's github stats" /></a> | <a href="https://github.com/Mm9450"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mm9450&langs_count=4&theme=vision-friendly-dark&&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
