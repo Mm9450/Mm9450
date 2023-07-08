@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 | <a href="https://github.com/Mm9450"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mm9450&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Manas's github stats" /></a> | <a href="https://github.com/Mm9450"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mm9450&langs_count=4&theme=vision-friendly-dark&&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+![Snake animation](https://github.com/Mm9450/Mm9450/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- &hide_border=true -->
 <!-- lang_count= ? -->
